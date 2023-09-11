@@ -4,6 +4,51 @@ state={
 
     history={
         owner = CND
+        victory_points = {
+			   3775 1
+	}
+        victory_points = {
+			   3778 2
+	}
+        victory_points = {
+			   3763 1
+	}
+        victory_points = {
+			   749 1
+	}
+        victory_points = {
+			   722 1
+	}
+        victory_points = {
+			   9667 1
+	}
+        victory_points = {
+			   774 1
+	}
+        victory_points = {
+			   6607 1
+	}
+        victory_points = {
+			   9583 1
+	}
+        victory_points = {
+			   6797 1
+	}
+        victory_points = {
+			   9585 1
+	}
+        victory_points = {
+			   3605 1
+	}
+        victory_points = {
+			   4270 1
+	}
+        victory_points = {
+			   605 1
+	}
+        victory_points = {
+			   9711 1
+	}
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5

@@ -4,6 +4,21 @@ state={
 
     history={
         owner = EUM
+        victory_points = {
+			   12835 1
+	}
+        victory_points = {
+			   10769 1
+	}
+        victory_points = {
+			   2060 1
+	}
+        victory_points = {
+			   10746 1
+	}
+        victory_points = {
+			   12811 1
+	}
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5

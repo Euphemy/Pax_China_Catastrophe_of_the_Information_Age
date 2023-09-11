@@ -4,6 +4,60 @@ state={
 
     history={
         owner = SKO
+        victory_points = {
+			   7125 2
+	}
+        victory_points = {
+			   12060 1
+	}
+        victory_points = {
+			   4086 1
+	}
+        victory_points = {
+			   11977 1
+	}
+        victory_points = {
+			   10110 1
+	}
+        victory_points = {
+			   4056 1
+	}
+        victory_points = {
+			   7221 1
+	}
+        victory_points = {
+			   10115 1
+	}
+        victory_points = {
+			   4126 1
+	}
+        victory_points = {
+			   7204 1
+	}
+        victory_points = {
+			   7121 1
+	}
+        victory_points = {
+			   12085 1
+	}
+        victory_points = {
+			   1177 1
+	}
+        victory_points = {
+			   1054 1
+	}
+        victory_points = {
+			   10036 1
+	}
+        victory_points = {
+			   12085 1
+	}
+        victory_points = {
+			   11948 1
+	}
+        victory_points = {
+			   1148 1
+	}
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5

@@ -4,6 +4,18 @@ state={
     
     history={
         owner = SVG
+        victory_points = {
+			   11106 1
+	}
+        victory_points = {
+			   379 2
+	}
+        victory_points = {
+			   11350 1
+	}
+        victory_points = {
+			   13009 1
+	}
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5

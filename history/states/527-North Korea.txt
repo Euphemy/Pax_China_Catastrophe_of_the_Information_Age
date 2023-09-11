@@ -4,6 +4,39 @@ state={
 
     history={
         owner = CNR
+        victory_points = {
+			   4052 1
+	}
+        victory_points = {
+			   6928 1
+	}
+        victory_points = {
+			   6822 1
+	}
+        victory_points = {
+			   848 1
+	}
+        victory_points = {
+			   11835 1
+	}
+        victory_points = {
+			   6922 1
+	}
+        victory_points = {
+			   9790 1
+	}
+        victory_points = {
+			   12040 1
+	}
+        victory_points = {
+			   11915 1
+	}
+        victory_points = {
+			   1003 1
+	}
+        victory_points = {
+			   11828 1
+	}
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5

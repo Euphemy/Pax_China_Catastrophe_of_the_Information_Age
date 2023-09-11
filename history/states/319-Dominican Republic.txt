@@ -4,6 +4,12 @@ state={
 
     history={
         owner = RDO
+        victory_points = {
+			   7660 2
+	}
+        victory_points = {
+			   4598 1
+	}
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5

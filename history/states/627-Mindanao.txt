@@ -4,6 +4,33 @@ state={
     
     history={
         owner = RPP
+        victory_points = {
+			   4241 1
+	}
+        victory_points = {
+			   1421 1
+	}
+        victory_points = {
+			   10243 1
+	}
+        victory_points = {
+			   4266 1
+	}
+        victory_points = {
+			   4427 1
+	}
+        victory_points = {
+			   12160 1
+	}
+        victory_points = {
+			   7417 1
+	}
+        victory_points = {
+			   7445 1
+	}
+        victory_points = {
+			   7360 1
+	}
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5

@@ -4,6 +4,30 @@ state={
 
     history={
         owner = NZA
+        victory_points = {
+			   4543 1
+	}
+        victory_points = {
+			   1814 2
+	}
+        victory_points = {
+			   7887 1
+	}
+        victory_points = {
+			   1801 1
+	}
+        victory_points = {
+			   12664 1
+	}
+        victory_points = {
+			   4804 1
+	}
+        victory_points = {
+			   4718 1
+	}
+        victory_points = {
+			   4748 1
+	}
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5

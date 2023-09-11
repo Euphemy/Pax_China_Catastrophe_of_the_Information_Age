@@ -4,6 +4,12 @@ state={
 
     history={
         owner = PAD
+        victory_points = {
+			   7630 2
+	}
+        victory_points = {
+			   4611 1
+	}
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5

@@ -4,6 +4,36 @@ state={
 
     history={
         owner = RCU
+        victory_points = {
+			   7622 2
+	}
+        victory_points = {
+			   13281 1
+	}
+        victory_points = {
+			   13284 1
+	}
+        victory_points = {
+			   13283 1
+	}
+        victory_points = {
+			   7451 1
+	}
+        victory_points = {
+			   4476 1
+	}
+        victory_points = {
+			   13279 1
+	}
+        victory_points = {
+			   12347 1
+	}
+        victory_points = {
+			   7590 1
+	}
+        victory_points = {
+			   13285 1
+	}
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5

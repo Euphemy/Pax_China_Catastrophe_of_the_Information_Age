@@ -4,6 +4,9 @@ state={
     
     history={
         owner = TAT
+        victory_points = {
+			   3284 2
+	}
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5

@@ -3,7 +3,7 @@ state={
     name="STATE_801"
     
     history={
-        owner = BUR
+        owner = RBU
         victory_points = {
 			   9612 1
 	}
@@ -21,7 +21,7 @@ state={
 		}
             }
 
-        add_core_of = BUR
+        add_core_of = RBU
     }
 
     provinces={

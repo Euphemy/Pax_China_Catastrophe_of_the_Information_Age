@@ -3,7 +3,7 @@ state={
     name="STATE_457"
 
     history={
-        owner = EGY
+        owner = EAR
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5
@@ -15,7 +15,7 @@ state={
 		}
             }
 
-        add_core_of = EGY
+        add_core_of = EAR
     }
 	
     provinces={

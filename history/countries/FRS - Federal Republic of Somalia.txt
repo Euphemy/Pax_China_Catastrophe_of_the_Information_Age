@@ -1,4 +1,4 @@
-capital = 691
+capital = 559
 
 if = {
 	limit = {
@@ -6,13 +6,13 @@ if = {
 			has_dlc = "No Step Back"
 		}
 	}
-	set_oob = "TAT_2059"
+	set_oob = "FRS_2059"
 }
 if = {
 	limit = {
 		has_dlc = "No Step Back"
 	}
-	set_oob = "TAT_2059_nsb"
+	set_oob = "FRS_2059_nsb"
 }
 
 starting_train_buffer = 2
@@ -85,7 +85,7 @@ if = {
 		early_battlecruiser = 1
 		transport = 1
 	}
-	set_naval_oob = "TAT_2059_naval"
+	set_naval_oob = "FRS_2059_naval"
 }
 if = {
 	limit = {
@@ -117,7 +117,7 @@ if = {
 		sonar = 1
 		basic_cruiser_armor_scheme = 1
 	}
-	set_naval_oob = "TAT_2059_naval_mtg"
+	set_naval_oob = "FRS_2059_naval_mtg"
 }
 
 set_research_slots = 3
@@ -139,9 +139,9 @@ set_popularities = {
 }
 
 create_country_leader = {
- name = "Keith Christopher Rowley"
+ name = "Hassan Sheikh Mahmoud"
  desc = ""
- picture = "gfx/leaders/TAT/Keith_Christopher_Rowley.dds"
+ picture = "gfx/leaders/FRS/Hassan_Sheikh_Mahmoud.dds"
  expire = "2089.1.1"
  ideology = liberalism
  traits = { }

@@ -1,4 +1,4 @@
-capital = 550
+capital = 48
 
 if = {
 	limit = {
@@ -6,13 +6,13 @@ if = {
 			has_dlc = "No Step Back"
 		}
 	}
-	set_oob = "ERI_2059"
+	set_oob = "RBU_2059"
 }
 if = {
 	limit = {
 		has_dlc = "No Step Back"
 	}
-	set_oob = "ERI_2059_nsb"
+	set_oob = "RBU_2059_nsb"
 }
 
 starting_train_buffer = 2
@@ -85,7 +85,7 @@ if = {
 		early_battlecruiser = 1
 		transport = 1
 	}
-	set_naval_oob = "ERI_2059_naval"
+	set_naval_oob = "RBU_2059_naval"
 }
 if = {
 	limit = {
@@ -117,7 +117,7 @@ if = {
 		sonar = 1
 		basic_cruiser_armor_scheme = 1
 	}
-	set_naval_oob = "ERI_2059_naval_mtg"
+	set_naval_oob = "RBU_2059_naval_mtg"
 }
 
 set_research_slots = 3
@@ -126,14 +126,23 @@ set_stability = 0.75
 set_war_support = 0.3
 
 set_politics = {
- ruling_party = neutrality
+ ruling_party = democratic
  last_election = "2053.7.1"
  election_frequency= 48
  elections_allowed = no
 }
 
 set_popularities = {
- neutrality = 78
+ democratic = 78
  fascism = 6
  communism = 16
+}
+
+create_country_leader = {
+ name = "Rumen Radev"
+ desc = ""
+ picture = "gfx/leaders/RBU/Rumen_Radev.dds"
+ expire = "2089.1.1"
+ ideology = liberalism
+ traits = { }
 }

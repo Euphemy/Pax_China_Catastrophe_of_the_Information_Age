@@ -3,7 +3,7 @@ state={
     name="STATE_668"
     
     history={
-        owner = DJA
+        owner = RIN
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5
@@ -15,9 +15,7 @@ state={
 		}
             }
 
-        add_core_of = DJA
-        add_core_of = LRP
-        add_core_of = BCL
+        add_core_of = RIN
     }
 
     provinces={

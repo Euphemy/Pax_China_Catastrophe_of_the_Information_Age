@@ -3,7 +3,7 @@ state={
     name="STATE_489"
 
     history={
-        owner = COL
+        owner = RBV
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5
@@ -15,7 +15,7 @@ state={
 		}
             }
 
-        add_core_of = COL
+        add_core_of = RBV
     }
 
     provinces={

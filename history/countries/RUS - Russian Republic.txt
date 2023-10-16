@@ -1,4 +1,4 @@
-capital = 909
+capital = 935
 
 if = {
 	limit = {
@@ -124,6 +124,7 @@ set_research_slots = 3
 set_convoys = 200
 set_stability = 0.75
 set_war_support = 0.3
+country_lock_all_division_template = yes
 
 set_politics = {
  ruling_party = democratic
@@ -139,10 +140,22 @@ set_popularities = {
 }
 
 create_country_leader = {
- name = "Anna Navalniy"
+ name = "Andrey Gorodkov"
  desc = ""
- picture = "gfx/leaders/RSC/Anna_Navalniy.dds"
+ picture = "gfx/leaders/RUS/Andrey_Gorodkov.dds"
  expire = "2089.1.1"
  ideology = liberalism
  traits = { }
+}
+
+add_ideas = {
+	RUS_bear_killed
+        RUS_european_occupation
+        RUS_new_order
+        RUS_bureaucracy_and_corruption
+        RUS_smolensk_agreements
+        RUS_faith_better_day
+        RUS_freedom_front
+        RUS_corporation_competition
+        RUS_smuta_time
 }

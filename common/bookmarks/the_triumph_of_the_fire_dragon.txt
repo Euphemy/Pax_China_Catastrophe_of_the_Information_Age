@@ -4,12 +4,24 @@ bookmarks = {
 		desc = "THE_TRIUMPH_OF_THE_FIRE_DRAGON_DESC"
 		date = 2059.1.1.12
 		picture = "GFX_select_date_2059"
-		default_country = "EUF"
+		default_country = "RUS"
 		default = yes
-		
+
+                "RUS"={
+			history = "RUS_THE_TRIUMPH_OF_THE_FIRE_DRAGON_DESC"
+			ideology = democratic
+			ideas = {
+			        RUS_european_occupation
+                                RUS_smolensk_agreements
+                                RUS_freedom_front
+			}
+			focuses = {
+				
+			}	
+		}
 
                 "---"={
-			history = "THE_TRIUMPH_OF_THE_FIRE_DRAGON_DESC"
+			history = "OTHER_THE_TRIUMPH_OF_THE_FIRE_DRAGON_DESC"
 		}
 
 		}

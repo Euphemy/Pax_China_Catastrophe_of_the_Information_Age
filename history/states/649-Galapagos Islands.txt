@@ -3,7 +3,7 @@ state={
     name="STATE_649"
     
     history={
-        owner = ECU
+        owner = CAD
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5
@@ -15,7 +15,7 @@ state={
 		}
             }
 
-        add_core_of = ECU
+        add_core_of = CAD
     }
 
     provinces={ 

@@ -1,0 +1,221 @@
+ideas = {
+
+	country = {
+		RUS_bear_killed = {
+			picture = rus_bear_killed
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.15
+                                war_support_factor = 0.25
+                                autonomy_gain = 0.1
+                                political_power_factor = -0.1
+			}
+		}
+                RUS_european_occupation = {
+			picture = rus_european_occupation
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.1
+                                min_export = 0.5
+                                trade_opinion_factor = 0.25
+                                local_resources_factor = 0.10
+                                cic_to_overlord_factor = 0.15
+                                mic_to_overlord_factor = 0.25
+                                industrial_capacity_factory = -0.25
+                                industrial_capacity_dockyard = -0.5
+                                consumer_goods_factor = 0.12
+                                production_speed_buildings_factor = -0.15 
+                                production_factory_efficiency_gain_factor = -0.30
+                                production_factory_start_efficiency_factor = -0.20
+			}
+		}
+                RUS_new_order = {
+			picture = rus_new_order
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.05
+                                political_power_factor = 0.08
+                                war_support_factor = -0.1
+			}
+		}
+                RUS_bureaucracy_and_corruption = {
+			picture = rus_bureaucracy_and_corruption
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_factor = -0.15
+                                consumer_goods_factor = 0.1
+                                production_speed_buildings_factor = -0.25 
+                                stability_weekly = -0.001
+                                production_speed_industrial_complex_factor = -0.2 
+                                industrial_capacity_factory = -0.1
+			}
+		}
+                RUS_smolensk_agreements = {
+			picture = rus_smolensk_agreements
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+                        rule = {
+				can_not_declare_war = yes
+			}
+
+                        on_add = {
+				country_lock_all_division_template = yes
+			}
+			
+			modifier = {
+                                army_org = -10
+                                army_org_factor = -0.15
+                                army_attack_factor = -0.15
+                                army_defence_factor = 0.1
+                                army_speed_factor = -0.25
+                                weekly_manpower = -2000
+                                political_power_factor = -0.1
+                                stability_factor = 0.15
+                                war_support_factor = -0.2
+                                drift_defence_factor = 0.3
+                                custom_modifier_tooltip = country_lock_all_division_template_tt
+			}
+		}
+                RUS_faith_better_day = {
+			picture = rus_faith_better_day
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			
+			modifier = {
+                             stability_factor = 0.1
+                             political_power_factor = 0.1
+                             industrial_capacity_factory = 0.15
+                             production_speed_infrastructure_factor = 0.25
+                             research_speed_factor = 0.075
+                             consumer_goods_factor = -0.05
+                             monthly_population = 0.125
+			}
+		}
+                RUS_freedom_front = {
+			picture = rus_freedom_front
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			
+			modifier = {
+                             political_power_factor = -0.25
+                             stability_weekly = -0.002
+                             war_support_weekly = -0.001
+                             weekly_manpower = -2500
+                             army_org_factor = -0.15
+                             army_attack_factor = -0.25
+			}
+		}
+                RUS_corporation_competition = {
+			picture = rus_corporation_competition
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			
+			modifier = {
+                             political_power_factor = -0.075
+                             stability_factor = -0.05
+                             industrial_capacity_factory = 0.1
+                             industrial_capacity_dockyard = 0.07
+                             research_speed_factor = 0.05
+			}
+		}
+                RUS_smuta_time = {
+			picture = rus_smuta_time
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			
+			modifier = {
+                             stability_factor = -0.15
+                             war_support_factor = -0.15
+                             political_power_factor = -0.1
+                             research_speed_factor = -0.1
+                             army_core_attack_factor = 0.15
+                             army_core_defence_factor = 0.15
+			}
+		}
+	}
+}

@@ -3,7 +3,7 @@ state={
     name="STATE_550"
 
     history={
-        owner = SER
+        owner = DAI
         2058.1.1 = {
         buildings = {
 	     infrastructure = 3 #was: 5
@@ -15,7 +15,7 @@ state={
 		}
             }
 
-        add_core_of = SER
+        add_core_of = DAI
     }
 	
     provinces={
